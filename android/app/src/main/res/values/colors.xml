@@ -1,0 +1,5 @@
+<resources>
+    <color name="herdr_window_background">#F7F8FA</color>
+    <color name="herdr_accent">#1A5BD6</color>
+    <bool name="herdr_light_system_bars">true</bool>
+</resources>

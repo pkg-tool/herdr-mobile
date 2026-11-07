@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Herdr" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/herdr_window_background</item>
+        <item name="android:windowLightStatusBar">@bool/herdr_light_system_bars</item>
+        <item name="android:colorAccent">@color/herdr_accent</item>
+        <item name="colorAccent">@color/herdr_accent</item>
+    </style>
+</resources>
